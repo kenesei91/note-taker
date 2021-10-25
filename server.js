@@ -14,6 +14,10 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
+app.get('/api/notes', (req, res) => {
+    res.json(savedNotes.slice(1));
+});
+
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, './public/index.html'));
 });
@@ -40,7 +44,8 @@ function createNewNote(body, notesArray) {
 app.post('/api/notes', (req, res) => {
     const createdNotes = createNewNote(req.body, savedNotes);
     res.json(createdNotes);
-})
+});
+
 
 
 
