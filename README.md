@@ -8,7 +8,7 @@
 
 **Professional note-taker challenge activity.**
 
-The aim of this project is to create an application called Note Taker that can be used to write and save notes. Users should alos be able to click on the created tasks as well as delete tasks using the garbage icon.
+The aim of this project is to create an application called Note Taker that can be used to write and save notes. Users should alos be able to click on the created tasks as well as delete tasks using the garbage icon. This application will use an Express.js back end and will save and retrieve note data from a JSON file. The application’s front end has already been created. A back end must be built, connect the two, and then deploy the entire application to Heroku.
 
 **This project follows the criteria below:**
 
