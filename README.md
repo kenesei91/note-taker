@@ -47,7 +47,7 @@ This project follows the criteria below:
 
 ## Project Visual
 
-![Project-Picture](./public/images/screenshot.png)
+![Project-Picture](./assets/public/images/screenshot.png)
 - Showing the originial state of the app
 
 
