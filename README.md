@@ -47,10 +47,10 @@ This project follows the criteria below:
 
 ## Project Visual
 
-![Project-Picture](./images/screenshot_1.png)
+![Project-Picture](./myimages/screenshot_1.png)
 - Showing the originial state of the app
 
-![Project-Picture](./images/screenshot_2.png)
+![Project-Picture](./myimages/screenshot_2.png)
 - Showing note page
 
 
