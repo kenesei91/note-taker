@@ -2,15 +2,15 @@
 
 ![badge](https://img.shields.io/badge/License-mit-red.svg)
 
-**Node Javascript Challenge
+**Node Javascript Challenge**
 
 **Version 1.11.0**
 
 **Professional note-taker challenge activity.**
 
-The aim of this project is to create an application an application called Note Taker that can be used to write and save notes without the use of browser javascript.
+The aim of this project is to create an application called Note Taker that can be used to write and save notes. Users should alos be able to click on the created tasks as well as delete tasks using the garbage icon.
 
-This project follows the criteria below:
+**This project follows the criteria below:**
 
 - GIVEN a note-taking application
 - WHEN I open the Note Taker
@@ -32,43 +32,45 @@ This project follows the criteria below:
 - Node.js
 - Javascript
 - HTML
-- CSS
+- CSS (use of Bootstrap)
+- Express js
 
 
 ## Work Completed
 
-**A successful completion of this project includes the following:**
-- [x]Application of express js
-- [x]Application of arrays
-- [x]Utilizing file system and inquirer packages
-- [x]Creating multiple variables and functions
+**A successful completion of this project includes the us of the following:**
 
+- Application of express js
+- Application of arrays
+- Utilizing file system and inquirer packages
+- Creating multiple variables and functions
+- Utilizing file system to write files
+- Installing npm packages
+- Utilization of insomnia to test routes
+- Deploy working app using Heroku
 
 
 ## Project Visual
 
-![Project-Picture](./myimages/screenshot_1.png)
 - Showing the originial state of the app
+![Project-Picture](./public/assets/images/screenshot_1.png)
 
-![Project-Picture](./myimages/screenshot_2.png)
 - Showing note page
-
-![Project-Picture](./public/assets/images/screenshot_3.png)
-- Showing note page
+![Project-Picture](./public/assets/images/screenshot_2.png)
 
 
 ## Github pages and links
 
-This project has been deployed to GitHub Pages. 
+**This project has been deployed to GitHub Pages.** 
 
-- [Github Repository](https://github.com/kenesei91/note-taker){:target="_blank" "rel="moopener"}
+- [Github Repository](https://github.com/kenesei91/note-taker)
 
-Heroku deployed app
+**Heroku deployed app**
 
-- [Heroku app](https://stark-gorge-42300.herokuapp.com/){:target="_blank" "rel="moopener"}
+- [Heroku app](https://stark-gorge-42300.herokuapp.com/)
 
 
-## Contributors
+## Contributors/Contact
 
 - Kenechukwu K Ilochonwu <keneilo91@yahoo.com>
 
