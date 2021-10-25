@@ -53,6 +53,8 @@ This project follows the criteria below:
 ![Project-Picture](./myimages/screenshot_2.png)
 - Showing note page
 
+![Project-Picture](./public/assets/images/screenshot_3.png)
+- Showing note page
 
 
 ## Github pages and links
