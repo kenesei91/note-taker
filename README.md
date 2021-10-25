@@ -58,6 +58,10 @@ This project has been deployed to GitHub Pages.
 
 - [Github Repository](https://github.com/kenesei91/note-taker){:target="_blank" "rel="moopener"}
 
+Heroku deployed app
+
+- [Heroku app](https://stark-gorge-42300.herokuapp.com/){:target="_blank" "rel="moopener"}
+
 
 ## Contributors
 
